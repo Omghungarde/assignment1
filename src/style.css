@@ -1,0 +1,56 @@
+body{
+    font-family: 'Poppins',sans-serif;
+}
+li{
+    color: black;
+}
+.line{
+    margin-left: 32px;
+    margin-right: 33px;
+    height: 23px;
+}
+#adminimage{
+    margin-right: 10px;
+}
+#imgj{
+    margin-left: 18.5px;
+}
+#herotext{
+    margin-left: 132px;
+    padding-top: 18px;
+
+}
+#sidebar{
+    height: 190vh;
+    width: 113px;
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+}
+#frontsection{
+    width: 98%;
+}
+
+#formats{
+  
+    
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#formats span{
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#lorem10:hover {
+    cursor: pointer;
+    
+
+}
+#custom-text{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
